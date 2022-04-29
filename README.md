@@ -1,0 +1,2 @@
+# generalization
+mini admin panel
